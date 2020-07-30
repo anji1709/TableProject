@@ -9,7 +9,7 @@ class table
 			    System.out.println(i*j);
 			}
 			  System.out.println("         ");
-			   System.out.println("Added some changes to the code");
+			   System.out.println("New Changes to the code");
 			  
 		 }
    }
