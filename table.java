@@ -9,6 +9,8 @@ class table
 			    System.out.println(i*j);
 			}
 			  System.out.println("         ");
+			   System.out.println("Added some changes to the code");
+			  
 		 }
    }
 }
